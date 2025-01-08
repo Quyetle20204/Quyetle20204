@@ -24,5 +24,5 @@ Welcome to my GitHub profile! I'm a student at the University of Economics Ho Ch
 [Kỹ năng 3]
 ## 📫 How to Reach Me
 
-- **Email**: [lequyetnum10@gmail.com](mailto:lequyetnum10@gmail.com)
-- **LinkedIn**:
+- **Email**: [quyetle.da@gmail.com](mailto:quyetle.da@gmail.com)
+- **LinkedIn**: www.linkedin.com/in/quyetle20204
