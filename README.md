@@ -11,6 +11,4 @@ Welcome to my GitHub profile! I'm a student at the University of Economics Ho Ch
 ## 📫 How to Reach Me
 
 - **Email**: [lequyetnum10@gmail.com](mailto:lequyetnum10@gmail.com)
-- **Portfolio**:
-
-## 📊 GitHub Stats
+- **LinkedIn**:
